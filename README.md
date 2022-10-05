@@ -1,2 +1,1 @@
-shell bascics
-starting basics
+This repository contains solutions to the shell tasks
